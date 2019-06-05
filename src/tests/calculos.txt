@@ -1,0 +1,62 @@
+----------------------
+Tests de LCS
+----------------------
+
+======String==(test1)==========
+1|Extra large:
+    Size: 155971 bytes
+    Porcentaje (xlarge): 100%
+
+2|Large:
+    Size: 133823 bytes
+    Porcentaje (xlarge): 85.8
+
+3|Medium:
+    Size: 111519 bytes
+    Porcentaje (xlarge): 71.5
+
+4|Small:
+    Size: 89215 bytes
+    Porcentaje (xlarge): 57.2
+
+5|Extra small:
+    Size: 66912
+    Porcentaje (xlarge): 42.9%
+
+6|Tiny:
+    Size: 44608
+    Porcentaje (xlarge): 28.6%
+
+7|Micro:
+    Size: 22304
+    Porcentaje (xlarge): 14.3%
+
+===Substring==(test2)==========
+1|Extra large:
+    Size: 85041 bytes
+    Porcentaje (xlarge): 100%
+
+2|Large:
+    Size: 72965 bytes
+    Porcentaje (xlarge): 85.8
+
+3|Medium:
+    Size: 60804 bytes
+    Porcentaje (xlarge): 71.5
+
+4|Small:
+    Size: 48643 bytes
+    Porcentaje (xlarge): 57.2
+
+5|Extra small:
+    Size: 36483
+    Porcentaje (xlarge): 42.9%
+
+6|Tiny:
+    Size: 24322
+    Porcentaje (xlarge): 28.6%
+
+7|Micro:
+    Size: 12161
+    Porcentaje (xlarge): 14.3%
+
