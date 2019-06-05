@@ -1,0 +1,10 @@
+#PBS -N LCS_mpi
+#PBS -q phi-n6h24
+#PBS -l nodes=6:ppn=6
+#PBS -l walltime=00:30:00
+#PBS -M dval7788@gmail.com
+#PBS -m bea
+
+cd $PBS_O_WORKDIR
+module load mpich
+mpiexec -np 36 ./LCS tests/large_test1.txt tests/large_test2.txt

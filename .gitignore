@@ -33,5 +33,4 @@
 *.exe
 *.out
 *.app
-src/main
-src/bitonicSort
+src/LCS
