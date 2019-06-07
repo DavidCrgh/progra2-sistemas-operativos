@@ -1,3 +1,10 @@
+/**
+* LCS Dynamic Programming Implementation in OpenMPI
+* Author: Thao Nguyen (taoito @ Github)
+* Source: https://github.com/taoito/lcs-parallel
+*
+**/
+
 #include <mpi.h>
 #include "util.h"
 
